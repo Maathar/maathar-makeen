@@ -1,0 +1,4 @@
+baisas=1729
+omr=baisas//1000
+baisas=baisas%1000
+print("i have",omr,"or and",baisas,"baisas")
