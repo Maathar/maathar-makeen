@@ -1,0 +1,11 @@
+a={1,2,3,4}
+b={1,2,7,9}
+print(a.union(b))
+a.add(5)
+print(a)
+print(a.pop())
+print(a)
+a.remove(3)
+print(a)
+a.update(b)
+print(a)
